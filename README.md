@@ -13,6 +13,12 @@ cd anime
 ```bash
 cp .env.example .env
 ```
+# composer update(optional)
+```bash
+
+composer update
+```
+
 
 # setup database name in .env
 
