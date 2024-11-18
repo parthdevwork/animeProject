@@ -1,7 +1,7 @@
 # Clone project from github
 
 ```bash
-git clone https://github.com/parthdevwork/anime.git
+git clone https://github.com/parthdevwork/animeProject.git
 ```
 
 ```bash
