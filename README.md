@@ -70,12 +70,12 @@ php artisan serve
 # Call Anime API and Add data
 
 ```bash
- http://127.0.0.1:8000/api/import-anime
+ POST http://127.0.0.1:8000/api/import-anime
 
 ```
 
 # Fetch data using slug
 
 ```bash
-http://127.0.0.1:8000/api/anime/sousou-no-frieren
+GET http://127.0.0.1:8000/api/anime/sousou-no-frieren
 ```
