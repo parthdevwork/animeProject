@@ -5,7 +5,7 @@ git clone https://github.com/parthdevwork/animeProject.git
 ```
 
 ```bash
-cd anime
+cd animeProject
 ```
 
 # create .env file
