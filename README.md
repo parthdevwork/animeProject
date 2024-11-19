@@ -67,15 +67,17 @@ php artisan serve
 
 # Run both API in postman
 
-# Call Anime API and Add data
+# Call Anime API and Add data using POST method
 
 ```bash
- POST http://127.0.0.1:8000/api/import-anime
+  
+http://127.0.0.1:8000/api/import-anime
 
 ```
 
-# Fetch data using slug
+# Fetch data using slug using GET method
+
 
 ```bash
-GET http://127.0.0.1:8000/api/anime/sousou-no-frieren
+http://127.0.0.1:8000/api/anime/sousou-no-frieren
 ```
