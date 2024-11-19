@@ -13,6 +13,13 @@ cd animeProject
 ```bash
 cp .env.example .env
 ```
+
+# key generate
+```bash
+
+php artisan key:generate
+```
+
 # composer update(optional)
 ```bash
 
